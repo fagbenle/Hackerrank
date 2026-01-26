@@ -1,0 +1,15 @@
+# Core Development Dependencies
+pytest==7.4.3
+pytest-cov==4.1.0
+black==23.12.1
+flake8==6.1.0
+isort==5.13.2
+mypy==1.7.1
+
+# Utilities
+python-dotenv==1.0.0
+requests==2.31.0
+
+# Jupyter for interactive development
+jupyter==1.0.0
+ipython==8.18.1
