@@ -30,8 +30,9 @@ python script_name.py
 ```
 repo/
 ├── solutions/
-├── projects/
+├── problems/
 ├── requirements.txt
+├── SETUP_GUIDE.txt
 └── README.md
 ```
 
